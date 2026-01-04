@@ -121,26 +121,6 @@ Soham Patil
 
 ⭐ If you find this project useful, feel free to star the repository!
 
-markdown
-Copy code
-
----
-
-### ✅ That’s it.
-This README:
-- Clearly tells **users how to run**
-- Is **college + recruiter friendly**
-- Needs **no YAML**
-- Is **100% correct for a Python CLI project**
-
-If you want next:
-- 🔗 Replace `your-username` with your GitHub username
-- 📸 Add screenshots
-- ✨ Make a GUI version
-- 🧑‍💼 Write a LinkedIn post for this project
-
-Just say the word 😄
-
 
 
 
