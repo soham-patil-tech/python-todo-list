@@ -3,6 +3,9 @@
 # Author: Soham Patil
 # ============================
 
+from datetime import datetime
+
+
 def show_tasks(tasks):
     if not tasks:
         print("\n📭 No tasks available.\n")
@@ -17,8 +20,9 @@ def show_tasks(tasks):
 def add_task(tasks):
     task = input("Enter new task: ").strip()
     if task:
-        tasks.append(task)
-        print("✅ Task added!")
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
+        tasks.append(f"{task} ({timestamp})")
+        print("✅ Task added with timestamp!")
     else:
         print("⚠ Task cannot be empty.")
 
