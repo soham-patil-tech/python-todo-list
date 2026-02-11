@@ -119,7 +119,7 @@ Soham Patil
 🎓 BCA Student
 💻 Aspiring Software Developer
 
-⭐ If you find this project useful, feel free to star the repository!
+
 
 
 
